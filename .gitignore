@@ -4,3 +4,21 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 *.DS_Store
+
+# Ignore raw social CSVs
+FB_Organic.csv
+Insta_Organic.csv
+Linkedin_Organic.csv
+Twitter_Organic.csv
+
+# Ignore raw social CSVs
+FB Organic.csv
+Insta Organic.csv
+Linkedin Organic.csv
+Twitter Organic.csv
+
+# Ignore local non-anonymized CSVs
+FB Organic.csv
+Insta Organic.csv
+Linkedin Organic.csv
+Twitter Organic.csv
