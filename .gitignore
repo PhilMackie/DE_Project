@@ -22,3 +22,14 @@ FB Organic.csv
 Insta Organic.csv
 Linkedin Organic.csv
 Twitter Organic.csv
+
+# Raw social exports (non-anonymized) - ignore
+Faceboook Organic Data Source.xlsx - POSTS (1).csv
+Instagram insights Data Source.xlsx - POSTS (1).csv
+Linked Organic Data Source.xlsx - Sheet1 (1).csv
+Twitter Data Source.xlsx - Sheet1 (1).csv
+
+# Generic patterns for similar future exports
+*Data Source.xlsx - *.csv
+* - POSTS (1).csv
+* - Sheet1 (1).csv
